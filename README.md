@@ -6,7 +6,7 @@
 
 ## 使用演示
 
-[![观看 MemoLine 30 秒使用演示](Documentation/Images/memoline-demo-cover.png)](https://github.com/chenmanman-ai/MemoLine/releases/download/v1.10/MemoLine-Demo.mp4)
+[![观看 MemoLine 30 秒使用演示](Documentation/memoline-demo-cover.png)](https://github.com/chenmanman-ai/MemoLine/releases/download/v1.10/MemoLine-Demo.mp4)
 
 点击上方图片观看 30 秒使用演示。
 
