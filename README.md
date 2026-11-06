@@ -4,6 +4,12 @@
 
 支持 macOS 14+，Swift 5.9+，AppKit + SwiftUI。完全本地运行，无账号、网络请求、分析 SDK 或云同步。应用不监听截图、录屏或剪贴板，不需要屏幕录制或辅助功能授权。
 
+## 使用演示
+
+[![观看 MemoLine 30 秒使用演示](Documentation/Images/memoline-demo-cover.png)](https://github.com/chenmanman-ai/MemoLine/releases/download/v1.10/MemoLine-Demo.mp4)
+
+点击上方图片观看 30 秒使用演示。
+
 ## 下载与安装
 
 1. 在 GitHub Releases 下载与 Mac 架构对应的 `MemoLine-*-macOS-*.zip` 和 `SHA256SUMS.txt`。
